@@ -1,0 +1,9 @@
+DJango
+
+Steps ->
+
+
+
+
+
+->Make url.py in app that you made.
